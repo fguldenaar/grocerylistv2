@@ -49,7 +49,7 @@
               <div class="hover">
                 <img
                   @click="deleteItemFromItemList(index)"
-                  src="../assets/images/trash-solid-red.png"
+                  src="../assets/images/arrow-204-24.png"
                   width="18"
                   height="20"
                   class="delete"
